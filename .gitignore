@@ -8,3 +8,6 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+/Projecto1/.settings
+/Projecto1/.classpath
+/Projecto1/.project
